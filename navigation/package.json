@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "name": "navigation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "none",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/en3m3/navigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/en3m3/navigation/issues"
+  },
+  "homepage": "https://github.com/en3m3/navigation#readme",
+  "description": ""
+}
